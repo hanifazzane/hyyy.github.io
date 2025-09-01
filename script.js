@@ -1,4 +1,4 @@
-const message = `em hy hehwhehwe\nmff yh alay, tp ini serius\n\nkm kl ad ap ap blg aja yh sm ak\n\nmksh yh mw nyoba ngertiin ak\n\nttp hidup yh.....`;
+const message = `em hy hehwhehwe\nmff yh alay, tp ini serius\n\nkm kl ad ap ap blg aja yh sm ak\n\nmksh yh mw nyoba ngertiin ak, ak tw pst km cape yh hwhehwehhw[mff]\n\nttp hidup yh.....`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
